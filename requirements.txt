@@ -1,1 +1,4 @@
-
+python-telegram-bot==20.6
+openai==1.32.0
+schedule==1.2.0
+pytz==2023.3
