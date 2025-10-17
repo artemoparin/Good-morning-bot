@@ -7,9 +7,9 @@ from datetime import datetime
 import os
 
 # === ПЕРЕМЕННЫЕ ОКРУЖЕНИЯ ===
-TOKEN = os.environ.get("TOKEN")  # токен бота из BotFather
-CHAT_ID = os.environ.get("CHAT_ID")  # ID жены
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")  # OpenAI API ключ
+TOKEN = os.environ.get("8321783290:AAHNCrRvESYiiVq_40S1Dx87ns-bQ6IWGag")  # токен бота из BotFather
+CHAT_ID = os.environ.get("279933760")  # ID жены
+OPENAI_API_KEY = os.environ.get("sk-proj-aaj-m1pfQ6YQTwUiw9e1Rj-jYs_vnAsGy6FoZRbdrL3KnTrvTgt-YaBDmFZ9CWzx2zITxNdbMRT3Blbk-FJ5qt7XxngO-2sWu9-Usbn_sUl51PYJiVhakHkN2WZhNtKFvTWOTz-UmUQvM7IrUkuYbURybqvzQA")  # OpenAI API ключ
 
 TIMEZONE = pytz.timezone("Europe/Moscow")  # московское время
 
